@@ -7,5 +7,7 @@ It includes 5 different implementations of the Bitonic Sort Algorithm, where the
 Implementations:
 
 Pthreads: Recursive
+
 OpenMP:   Recursive && Imperative
+
 CilkPlus: Recursive && Imperative
